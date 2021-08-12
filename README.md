@@ -9,3 +9,7 @@ There are 4 files:-
 2.The obtained model file as final_model.pkl file.
 3.st_app.py file which is required to create web app
 4.submission.ipynb file which is the entire ML life cycle
+5.An image of the web app
+
+
+!(C:\Users\91996\Desktop\ML\PredictiVu\Web_app.jpg)
